@@ -4,8 +4,7 @@
 
 Machine learning and data mining analysis of community service distribution across New York City's five boroughs. This project employs both supervised and unsupervised learning techniques to identify patterns, disparities, and optimization opportunities in social service delivery.
 
-**Student:** Yagnesh Vaghashiya (25002034)  
-**Course:** CC7184 Data Mining and Machine Learning  
+**Student:** Yagnesh Vaghashiya  
 **Institution:** London Metropolitan University  
 **Supervisor:** Dr. Subeksha Shrestha  
 **Academic Period:** Summer Semester 2025/26
@@ -83,7 +82,6 @@ nyc-community-services-analysis/
 ├── visualizations/                        # Generated plots
 │   ├── kmeans_clustering_pca.png
 │   └── borough_distribution.png
-├── documentation/                         # Additional docs
 ├── README.md                              # This file
 ├── requirements.txt                       # Python dependencies
 ├── .gitignore                            # Git configuration
@@ -231,42 +229,6 @@ Brooklyn leads with 49 programs, while Staten Island has only 10 programs - a ne
 
 ---
 
-## 🚀 How to Use This Repository
-
-### Prerequisites
-```bash
-Python 3.8+
-pip (Python package manager)
-```
-
-### Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/YOUR_USERNAME/nyc-community-services-analysis.git
-cd nyc-community-services-analysis
-```
-
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Analysis
-
-**Option 1: Run Python Script**
-```bash
-cd code
-python Code_Data_Mining.py
-```
-
-**Option 2: Google Colab (Recommended)**
-1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `Code_Data_Mining.py`
-3. Upload dataset from `data/ACS_Community_Partners_20250708.csv`
-4. Run all cells
-
-**Colab Link:** [View Project](https://colab.research.google.com/drive/1jAQoP7MqIDyUm6LvDRAMnOIrLlI60XxV)
 
 ### Output
 - Classification report (precision, recall, F1-score)
@@ -466,23 +428,12 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 **Yagnesh Vaghashiya**  
 Student ID: 25002034  
 London Metropolitan University  
-Email: yav0051@my.londonmet.ac.uk
+Email: yagneshvaghashiya602@gmail.com
+Mobile Number: +44 7887 172884
 
-**Supervisor:**  
-Dr. Subeksha Shrestha  
-London Metropolitan University
 
 ---
 
-## 🌟 Acknowledgments
-
-- **Dr. Subeksha Shrestha** - Course supervision and guidance
-- **NYC Open Data** - Dataset provision
-- **London Metropolitan University** - Academic support
-- **Google Colab** - Cloud computing platform
-- **Scikit-learn Community** - ML library development
-
----
 
 ## 📊 Repository Statistics
 
@@ -493,9 +444,4 @@ London Metropolitan University
 
 ---
 
-**Last Updated:** May 2026  
-**Project Status:** ✅ Complete and Submitted
-
----
-
-*This project demonstrates practical application of data mining and machine learning techniques to real-world urban service distribution challenges, with actionable insights for policymakers and community organizations.*
+actionable insights for policymakers and community organizations.*
